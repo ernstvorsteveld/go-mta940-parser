@@ -1,4 +1,4 @@
-module github.com/ernstvorsteveld/go-mta940-parser
+module github.com/ernstvorsteveld/go-mta940-parser/v0.1
 
 go 1.18
 
