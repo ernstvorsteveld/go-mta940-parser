@@ -1,4 +1,4 @@
-module mta-service
+module go-mta940-parser
 
 go 1.18
 
