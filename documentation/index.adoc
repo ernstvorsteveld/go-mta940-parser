@@ -10,7 +10,7 @@
 [source,bash]
 ----
 # create module
-go mod init sta-service
+go mod init go-mta940-parser
 
 # Add gin-gonic dependency
 go get -u github.com/gin-gonic/gin
